@@ -1,5 +1,5 @@
 # ProjetEychenneMadecZiegelBauchet
-menbre : 
+menbres : 
 Léo Eychenne
 Ewen Madec 
 Raphaël Ziegelmeyer
