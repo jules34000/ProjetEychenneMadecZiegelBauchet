@@ -13,3 +13,7 @@ Le Flappy bird "projetcollision" est une création originale de notre projet.
 
 
 le dossier "javaapplication13" est une version non aboutit du jeu du labyrinthe.
+
+
+pour executer le flappy bird il faut executer "projetcollicion" on se déplace ensuite avec zqsd
+pour executer le labyrinthe il faut exécuter "Frame" on se déplace en clique and drague avec la sourie.
